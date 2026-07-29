@@ -1,0 +1,37 @@
+export const content = {
+  brand: 'Get Found Trades',
+  domain: 'getfoundtrades.com',
+  serviceType: 'Local SEO and visibility for trades',
+  title: 'Get Found Trades — Get Found on Google, Maps & AI',
+  description: 'Get found when customers search — Google, Maps, and AI answers. Local SEO for trades, wired to Jobber, ServiceTitan, and Housecall Pro. Join early access.',
+  navCta: 'Get early access',
+  badge: 'Early access · trades visibility',
+  h1a: 'Get found when customers search — ', h1grad: 'Google, Maps, and AI', h1b: '.',
+  sub: 'Most trade businesses are invisible where it counts. We get you showing up across Google, the Maps pack, and AI answers — done for you, wired to the software you already run.',
+  trust: 'Done for you. No SEO jargon, no guesswork.',
+  mock: ['search', 'pin', 'sparkles'],
+  mockStat: 'Search presence',
+  featHead: {
+    eyebrow: 'Three places customers look',
+    title: 'Show up everywhere they search.',
+    sub: 'Customers don\'t just use Google search anymore. We cover all three surfaces where trade work gets found.',
+  },
+  features: [
+    { icon: 'search', title: 'Google Search', body: 'Rank in the organic results for "electrician near me" and "[trade] in [city]" — real visibility, not just paid ads that drain budget.' },
+    { icon: 'pin', title: 'Maps & Local Pack', body: 'The map and three listings above everything else. We optimize your Google Business Profile signals so you land in the pack.' },
+    { icon: 'sparkles', title: 'AI Answers', body: 'ChatGPT, Perplexity, and Google AI now answer local-service questions. We structure your presence so you get cited, not skipped.' },
+  ],
+  intsHead: {
+    title: 'Visibility tied to your real business',
+    sub: 'Wired to your field-service software, your listings and content reflect your actual services and service area — so you rank for work you actually do.',
+  },
+  ints: [
+    { brand: 'Jobber', body: 'Your real services and areas flow in, so you\'re found for the work you actually do.' },
+    { brand: 'ServiceTitan', body: 'Completed jobs and reviews feed the local signals that move you up the pack.' },
+    { brand: 'Housecall Pro', body: 'Service catalog syncs so your visibility matches your real operation.' },
+  ],
+  ctaTitle: 'Get found where it counts.',
+  ctaSub: 'We\'re opening early access to a small group of trade businesses. Tell us what you run and we\'ll prioritize getting you found.',
+  ctaList: ['No pricing commitment', 'Google, Maps & AI coverage', 'Priority onboarding when we open'],
+  footerTag: 'Get found on Google, Maps, and AI — for trades.',
+};

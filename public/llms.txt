@@ -1,0 +1,13 @@
+# Get Found Trades
+
+Get Found Trades helps trade and field-service businesses get visible where customers search: Google organic results, Google Maps, and AI answer engines.
+
+**Who it is for:** Plumbers, electricians, HVAC technicians, roofers, and other field-service operators who are invisible in local search and want that fixed.
+
+**What it does:** Builds and maintains a local-SEO-optimized web presence — structured data, Google Business Profile signals, content — wired directly to the field-service management software the business already runs.
+
+**Integrations:** Jobber, ServiceTitan, Housecall Pro.
+
+**Status:** Early access / waitlist.
+
+**URL:** https://getfoundtrades.com
